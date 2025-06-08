@@ -29,7 +29,7 @@ Install the required libraries using:
 
 ```bash
 pip install pandas matplotlib seaborn numpy scikit-learn
-
+```
 
 ### 2. Prepare Data
 
