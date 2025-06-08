@@ -11,7 +11,7 @@ The four weather stations included in the study are:
 - Madison Dane County Regional Airport
 - Milwaukee Mitchell International Airport
 
-The project generates time series plots, scatter plots, and regression trendlines to visualize the evolving patterns of snowfall and extreme temperatures in Wisconsin. You can also use the report.md file to chceck the report based on the visulized data.
+The project generates time series plots, scatter plots, and regression trendlines to visualize the evolving patterns of snowfall and extreme temperatures in Wisconsin. You can also use the Report.md file to chceck the report based on the visulized data.
 
 ## How to Run the Project
 
