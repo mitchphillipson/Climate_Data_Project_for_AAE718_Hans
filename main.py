@@ -40,7 +40,15 @@ plot_snow_depth(df, "lacrosse", ax[0, 1])
 plot_snow_depth(df, "madison", ax[1, 0])
 plot_snow_depth(df, "milwaukee", ax[1, 1])
 
+plt.close()
 
+# Or (actually, this looks really bad, maybe a bar graph or a resample would help)
 
+sns.lineplot(
+    data = df,
+    x = "DATE",
+    y = "DailySnowDepth",
+    hue = "location"
+)
 
 # %%
